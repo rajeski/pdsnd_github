@@ -1,1 +1,1 @@
-###### US Bikeshare Project: Post Your Work on GitHub including minor changes
+###### US Bikeshare Project: Post your work on GitHub including minor changes
